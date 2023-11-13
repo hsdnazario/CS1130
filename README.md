@@ -1,5 +1,4 @@
 # CS1130
-CS1130 Javascript Programs
 <!DOCTYPE html>
 <html>
 <head>
